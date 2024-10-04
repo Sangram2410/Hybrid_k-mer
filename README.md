@@ -2,7 +2,7 @@
 				       ****************************** MtK-mer & HK-mer ****************************
 							MtK-mer: Multi-Threaded Optimal k-mer Length
 					RGCOK: Reference Genome Compression Algorithm using Optimal k-mer Length
-							https://github.com/AnshuOishik/RGCOK
+							https://github.com/Sangram2410/Hybrid_k-mer/
 								Copyright (C) 2023 
 =============================================================================================================================
 Introduction
